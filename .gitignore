@@ -1,7 +1,6 @@
 *.lock
-
 node_modules/
-
+*.env
 ### Next ###
 .next
 
