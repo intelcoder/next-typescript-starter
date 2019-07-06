@@ -1,8 +1,9 @@
 *.lock
 node_modules/
-*.env
+.env
 ### Next ###
 .next
+*.log
 
 ### Code ###
 .vscode/*
